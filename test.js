@@ -456,10 +456,12 @@
 // console.log(removeValue([1, 2, 3, 2], 2));
 
 
-const props = {
-    postData: []
-}
+// const props = {
+//     postData: []
+// }
 
-const {postData, ...otherProps} = props
+// const {postData, ...otherProps} = props
 
-console.log({...user})
+// console.log({...user})
+
+const addition = (oneNum, twoNum) => oneNum + twoNum 
